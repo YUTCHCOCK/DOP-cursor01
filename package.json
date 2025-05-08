@@ -1,0 +1,17 @@
+{
+  "name": "webnovel-writer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "tsx generate.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "googleapis": "^130.0.0",
+    "openai": "^4.25.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  }
+}
