@@ -1,0 +1,10 @@
+/webnovel-writer
+├── lib/
+│   ├── googleSheet.ts
+│   └── generateChapter.ts
+├── output/
+├── .env.local
+├── generate.ts
+├── credentials.json (※ 직접 발급 필요)
+├── package.json
+└── tsconfig.json
